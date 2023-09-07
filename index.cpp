@@ -23,7 +23,32 @@ int decimalToBinary()
     cout << ans << endl;
 }
 
+int binaryToDecimal()
+{
+    int n;
+    cout << "Type the value of n? " << endl;
+    cin >> n;
+
+
+    int ans = 0;
+    int i = 0;
+
+    while (n != 0)
+    {
+        int digit = n % 10;
+
+        if (digit == 1)
+        {
+            ans = ans + pow(2, i);
+        }
+        n = n / 10;
+        i++;
+    }
+    cout << ans << endl;
+}
+
 int main()
 {
-    decimalToBinary();
+    // decimalToBinary();
+    binaryToDecimal();
 }
