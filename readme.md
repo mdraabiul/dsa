@@ -55,6 +55,6 @@ For detailed instructions on how to contribute, please check the [CONTRIBUTING.m
 
 This repository is open-source and available under the [MIT License](LICENSE). You are free to use the code for educational purposes, personal projects, or in any way that adheres to the license terms. Please review the license file for more details.
 
-Thank you for visiting the Data Structures and Algorithms Repository. We hope you find the resources here helpful in your journey to become a more proficient programmer and problem solver. If you have any questions or suggestions, please don't hesitate to [open an issue](https://github.com/yourusername/yourrepository/issues) or [contact us](mailto:your@email.com).
+Thank you for visiting the Data Structures and Algorithms Repository. We hope you find the resources here helpful in your journey to become a more proficient programmer and problem solver. If you have any questions or suggestions, please don't hesitate to [open an issue](https://github.com/mdraabiul/dsa/issues) or [contact us](mailto:mdrabiul.asia@email.com).
 
 Happy coding!
