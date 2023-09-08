@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Repository
 
-Welcome to the Data Structures and Algorithms Repository! This repository is dedicated to providing a comprehensive collection of data structures and algorithms implemented in various programming languages. Whether you're a beginner looking to learn the basics, you'll find a wealth of resources here.
+Welcome to the Data Structures and Algorithms Repository! This repository is dedicated to providing a comprehensive collection of data structures and algorithms implemented in various programming languages. Whether you're a beginner looking to learn the basics or an experienced developer seeking efficient implementations, you'll find a wealth of resources here.
 
 ## Table of Contents
 
@@ -40,6 +40,7 @@ In the `algorithms` directory, you'll discover a wide range of algorithms for va
 - Graph Algorithms (Dijkstra's Algorithm, Kruskal's Algorithm, etc.)
 - String Algorithms (String Matching, Regular Expressions, etc.)
 - Computational Geometry
+- random algorithm (leetcode)
 - and more...
 
 Each algorithm folder includes detailed explanations, implementation code, and example usage. You can study these algorithms to enhance your problem-solving skills and optimize your code.
