@@ -58,9 +58,29 @@ int reverseInteger()
     cout << ans << endl;
 }
 
+int fibonacciNums()
+{
+    int n;
+    cout << "Type the value of n? " << endl;
+    cin >> n;
+    int a = 0;
+    int b = 1;
+    int sum;
+    for (int i = 0; i <= n; i++)
+    {
+        sum = a + b;
+        cout << sum << " ";
+        a = b;
+        b = sum;
+    }
+}
+
 int main()
 {
     // decimalToBinary();
     // binaryToDecimal();
-    reverseInteger();
+    // reverseInteger();
+    fibonacciNums();
 }
+
+// uttora - 12 no sector, road no 17, house 19, lifter 5 tola
